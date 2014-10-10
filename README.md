@@ -17,7 +17,7 @@ our core Bitcoin network infrastructure in the near future. It is currently in b
 and not recommended for production use until it has received sufficient testing
 from the Bitcoin community.
 
-You can see Toshi running on various networks at the following URLs:
+You can see Toshi running on various networks at the following URLs: testing.
 
 * https://bitcoin.toshi.io/
 * https://testnet3.toshi.io/
